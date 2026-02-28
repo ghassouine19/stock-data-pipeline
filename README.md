@@ -44,7 +44,6 @@ An end-to-end **data pipeline** that:
 
 ## Screenshots
 
-> Put your screenshots in: `docs/screenshots/`
 
 - Docker running: `docs/screenshots/01_docker_running.png`  
 - pgAdmin connected: `docs/screenshots/02_pgadmin_connection.png`  
